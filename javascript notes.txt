@@ -1,0 +1,16 @@
+var is keyword in js
+var is varibale thatis it can be changed
+var myname= "RITHESH";
+
+>>var
+>>RITHESH
+>>var myname="RITHU";
+>>var
+>>RITHU
+
+----------------------------------------------------
+Slice funtion in Js is used to slice the or cut the extra characters.
+>>var name="RITHESH";
+>>name.slice(0,2);
+>>RI
+---------------------------------------------------------
