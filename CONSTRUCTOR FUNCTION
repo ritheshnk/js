@@ -1,0 +1,12 @@
+
+// INSTEAD OF DEFINING OBJECT AGIN AND AGAIN WE USE CONSTUCTOR FUNCTION 
+
+function HomeKeep(name,age,hobby){
+    this.name=name;
+    this,age=age;
+    this.hobby=hobby;
+}
+
+var homkeep1= new HomeKeep("roman",90,["playing","reading"]);
+>>console.log(homkeep1.name);
+   roman
