@@ -1,0 +1,12 @@
+function HomeKeep(name,age,hobby){
+    this.name=name;
+    this,age=age;
+    this.hobby=hobby;
+    this.clean = function (){
+        alert("Cleaning in progress.....");
+    }
+}
+
+//in console
+var bellBoy= new HomeKeep("abc",5,"playing");
+>>bellBoy.clean(); // alert message will be displayed
