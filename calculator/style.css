@@ -1,0 +1,34 @@
+html {
+  height: 100%;
+  width: 100%;
+  font-family: 'Croissant One', san-serif;
+
+}
+
+body {
+  margin: 8%;
+  background: #F78CA2;
+  color: white;
+}
+
+button {
+  padding: 20px;
+  margin: 0 3px;
+  border-radius: 5px;
+  border: 2px solid black;
+  cursor: pointer;
+  width: 66px;
+}
+
+.row {
+  margin: 10px 0;
+}
+
+.row input {
+  margin: 0;
+  font-size: 22px;
+  padding: 10px 0;
+  border: 2px solid black;
+  border-radius: 9px;
+  width: 320px;
+}
